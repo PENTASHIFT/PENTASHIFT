@@ -10,7 +10,7 @@
 <h4>I'm working on:</h4>
 <ul>
     <li>📖 Building conversational AI reading assistants at UCI's Digital Learning Lab</li>
-    <li>💻 Aiding students' understanding of core concepts in UCI's C++ as a second language and DSA courses</li>
+    <li>💻 Aiding students' understanding of core concepts in UCI's Machine Learning & Data Mining course</li>
 </ul>
 
 <h2></h2>
