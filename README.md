@@ -10,5 +10,6 @@
 <h4>I'm working on:</h4>
 <ul>
     <!-- <li>💻 </li> -->
+    <li>😰 Graduate school applications</li>
 </ul>
 <h2></h2>
