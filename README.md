@@ -1,5 +1,5 @@
 <h2>Hi there! My name is Josh(ua) [no particular preference].</h2>
-<h3>I'm an incoming graduate student at CSULB.</h3>
+<h3>I'm an incoming graduate student at California State University, Long Beach.</h3>
 
 <h4>I'm interested in:</h4>
 <ul>
