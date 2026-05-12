@@ -1,5 +1,5 @@
 <h2>Hi there! My name is Josh(ua) [no particular preference].</h2>
-<h3>I'm a recent graduate of the University of California, Irvine.</h3>
+<h3>I'm an incoming graduate student at CSULB.</h3>
 
 <h4>I'm interested in:</h4>
 <ul>
@@ -7,9 +7,8 @@
     <li>🏴 Critical Pedagogy</li>
 </ul>
 
-<h4>I'm working on:</h4>
+<!-- <h4>I'm working on:</h4>
 <ul>
-    <!-- <li>💻 </li> -->
-    <li>😰 Graduate school applications</li>
+    <li>💻 </li>
 </ul>
-<h2></h2>
+<h2></h2> -->
